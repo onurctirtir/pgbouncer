@@ -96,7 +96,7 @@ you can run `configure`:
 	$ make
 	$ make install
 
-Additional packages required: autoconf, automake, libtool, pandoc
+Additional packages required: autoconf, automake, libtool, pandoc, pkg-config
 
 Testing
 -------
